@@ -1,12 +1,13 @@
 .section-green {
-
-          background-color: brown; 
+  background-color: brown;
+  text-decoration: double;
 }
 
 .section-blue {
-         background-color: yellow;
+  background-color: yellow;
+  font-size: 550px;
 }
-.section-red {
-         background-color: indigo;
 
+.section-red {
+  background-color: indigo;
 }
